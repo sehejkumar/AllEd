@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_5sdp"
+    android:background="@color/colorPrimary">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="@dimen/_10sdp"
+        app:cardElevation="@dimen/_7sdp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@android:color/holo_blue_dark"
+                android:id="@+id/eventDate"
+                android:textStyle="bold"
+                android:text="@string/date"
+                android:textSize="@dimen/_11ssp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@android:color/holo_purple"
+                android:id="@+id/eventName"
+                android:textStyle="bold"
+                android:text="@string/event"
+                android:textSize="@dimen/_35ssp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@android:color/holo_green_dark"
+                android:id="@+id/eventTime"
+                android:textStyle="bold"
+                android:text="@string/time"
+                android:textSize="@dimen/_16ssp"/>
+
+            <ImageButton
+                android:layout_width="@dimen/_45ssp"
+                android:layout_height="@dimen/_45ssp"
+                android:id="@+id/alarmmeBtn"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:backgroundTint="@android:color/holo_orange_dark"
+                android:src="@drawable/ic_baseline_notifications_off_24"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/delete"
+                android:text="@string/delete"
+                android:textStyle="bold"
+                android:textSize="@dimen/_20ssp"
+                android:textAllCaps="false"
+                android:layout_margin="@dimen/_5sdp"
+                android:textColor="@color/white"
+                android:background="#FF0000"/>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-anydpi/background_note_color_2.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-anydpi/background_note_color_3.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-anydpi/ic_action_notification_on.xml" value="0.1195" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-v24/background_note_color_1.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-v24/background_note_color_2.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-v24/background_note_color_4.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-v24/background_note_color_5.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable-xxhdpi/custom_button_duolingo.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_add_button.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_delete.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_dialog.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_done_button.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_miscellaneous.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_note.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_note_color_1.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_search.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_splash.xml" value="0.2995" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/background_subtitle_indicator.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/btn_border.xml" value="0.2415" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/button_done.xml" value="0.1195" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button_duolingo.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button_google_classroom.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button_history.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button_khan_academy.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button_schoology.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/custom_button_udemy.xml" value="0.16" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_account.xml" value="0.1865" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_add.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_add_alert_black_24dp.xml" value="0.165" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_add_outline.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_back.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_back_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_123_24.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_password_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_calendar.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_computer.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_delete.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_done.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_home.xml" value="0.2055" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_icons8_edit.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_image.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.141" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_logout.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_menu_white.xml" value="0.2505" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_next_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_notes.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_notifications.xml" value="0.2055" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_person_add_black_24dp.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_profile.xml" value="0.2055" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_search.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_time.xml" value="0.1" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/ic_web_link.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/login_page.xml" value="0.2995" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/drawable/toolbar_dropshadow.xml" value="0.254" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/font/aclonica.xml" value="0.11388888888888889" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_add_reminder.xml" value="0.16013513513513514" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_alarm.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_calendar.xml" value="0.22" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_create_note.xml" value="0.22" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_daily_calendar.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_educational_websites.xml" value="0.25101351351351353" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_event_edit.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_forgot_password.xml" value="0.3654891304347826" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_login.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_main.xml" value="0.17607223476297967" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_notes.xml" value="0.18" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_profile_page.xml" value="0.33" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_register.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_reminder.xml" value="0.16013513513513514" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/activity_week_view.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/add_newevent_layout.xml" value="0.16495726495726495" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/alarm_items.xml" value="0.16013513513513514" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/calendar_cell.xml" value="0.3691123188405797" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/calendar_layout.xml" value="0.21462163317657118" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/dialog_completed_theme.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/event_cell.xml" value="0.28489583333333335" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/fragment_calendar_view.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/fragment_create_task.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/fragment_home.xml" value="0.2015625" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/fragment_notification.xml" value="0.2015625" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/fragment_profile.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/header.xml" value="0.3691123188405797" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/hour_cell.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/item_container_note.xml" value="0.25101351351351353" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/item_task.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/layout_add_url.xml" value="0.25101351351351353" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/layout_delete_note.xml" value="0.25101351351351353" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/layout_miscellaneous.xml" value="0.19722222222222222" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/show_events_layout.xml" value="0.198828125" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/show_events_rowlayout.xml" value="0.27102803738317754" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/layout/single_cell.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/menu/main_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/menu/menu.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/menu/menu2.xml" value="0.2015625" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/menu/menu_add_reminder.xml" value="0.16013513513513514" />
+        <entry key="..\:/Users/kumar/AndroidStudioProjects/AllEd2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2055" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

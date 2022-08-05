@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285338900534",
+    "firebase_url": "https://alled-9af02-default-rtdb.firebaseio.com",
+    "project_id": "alled-9af02",
+    "storage_bucket": "alled-9af02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285338900534:android:06072ac5ae3c85b37b2097",
+        "android_client_info": {
+          "package_name": "com.example.alled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285338900534-d1jdrdj0ii6di7q2gtmf8hkakabmtn8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBv7YveO2jBsp5xo1oQXvQZY0iHvISN7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285338900534-d1jdrdj0ii6di7q2gtmf8hkakabmtn8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

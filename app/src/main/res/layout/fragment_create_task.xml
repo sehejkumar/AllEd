@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimary">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/_15sdp"
+    android:paddingRight="@dimen/_15sdp"
+    android:paddingTop="@dimen/_15sdp"
+    android:paddingBottom="@dimen/_45sdp"
+    android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:background="@drawable/ic_add_black_24dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            fontPath="fonts/nunito_extra_bold.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:text="Add a Reminder"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_18ssp"
+            tools:ignore="MissingPrefix" />
+
+        <TextView
+            fontPath="fonts/nunito_light.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:gravity="center"
+            android:text="Fill the details below to add a reminder"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:alpha="0.8"
+            android:textSize="@dimen/_14ssp"
+            tools:ignore="MissingPrefix" />
+
+        <TextView
+            android:layout_marginLeft="@dimen/_1sdp"
+            fontPath="fonts/nunito_light.ttf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:textColor="@color/white"
+            android:text="Reminder Title"
+            tools:ignore="MissingPrefix" />
+
+        <EditText
+            android:textSize="@dimen/_10ssp"
+            fontPath="fonts/nunito_light.ttf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_1sdp"
+            android:singleLine="true"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_border"
+            android:padding="@dimen/_5sdp"
+            android:id="@+id/addTaskTitle"
+            tools:ignore="MissingPrefix" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_1sdp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:text="Reminder Description"
+        tools:ignore="MissingPrefix" />
+
+    <EditText
+        android:textSize="@dimen/_10ssp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_1sdp"
+        android:textColor="@color/white"
+        android:singleLine="true"
+        android:background="@drawable/btn_border"
+        android:padding="@dimen/_5sdp"
+        android:id="@+id/addTaskDescription"
+        tools:ignore="MissingPrefix" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_1sdp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:text="Reminder Date"
+        tools:ignore="MissingPrefix" />
+
+    <EditText
+        android:textSize="@dimen/_10ssp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_1sdp"
+        android:singleLine="true"
+        android:background="@drawable/btn_border"
+        android:textColor="@color/white"
+        android:padding="@dimen/_5sdp"
+        android:id="@+id/taskDate"
+        tools:ignore="MissingPrefix" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_1sdp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="wrap_content"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:text="Reminder Time"
+        tools:ignore="MissingPrefix" />
+
+    <EditText
+        android:textSize="@dimen/_10ssp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_1sdp"
+        android:textColor="@color/white"
+        android:singleLine="true"
+        android:background="@drawable/btn_border"
+        android:padding="@dimen/_5sdp"
+        android:id="@+id/taskTime"
+        tools:ignore="MissingPrefix" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_1sdp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:text="Add An Event"
+        tools:ignore="MissingPrefix" />
+
+    <EditText
+        android:textSize="@dimen/_10ssp"
+        fontPath="fonts/nunito_light.ttf"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_1sdp"
+        android:singleLine="true"
+        android:background="@drawable/btn_border"
+        android:padding="@dimen/_5sdp"
+        android:id="@+id/taskEvent"
+        android:textColor="@color/white"
+        tools:ignore="MissingPrefix" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addTask"
+        android:text="Add Reminder"
+        android:textStyle="bold"
+        android:background="@drawable/btn_background"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginTop="@dimen/_30sdp" />
+
+</LinearLayout>
+</ScrollView>
