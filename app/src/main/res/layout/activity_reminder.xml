@@ -120,6 +120,15 @@
                     android:textSize="@dimen/_18ssp"
                     app:drawableLeftCompat="@drawable/ic_add_black_24dp" />
 
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Credit: Mobile Development"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="@dimen/_20sdp"
+                    android:textSize="@dimen/_15sdp"
+                    android:textColor="@color/white"/>
+
             </LinearLayout>
 
 

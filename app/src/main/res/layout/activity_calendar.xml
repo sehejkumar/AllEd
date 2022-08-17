@@ -40,6 +40,7 @@
             app:navigationIcon="@drawable/ic_menu_white" />
 
         <TextView
+            android:id="@+id/disclaimer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/disclaimer"
@@ -52,6 +53,15 @@
             android:textAllCaps="true"
             android:padding="@dimen/_5sdp"
             android:textColor="@color/orange"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text = "Credit: Android Hands"
+            android:padding="@dimen/_5sdp"
+            app:layout_constraintTop_toBottomOf="@id/disclaimer"
+            android:textSize="@dimen/_15sdp"
+            android:textColor="@color/white"/>
 
         <com.example.alled.calendar.CustomCalendarView
             android:layout_width="match_parent"
