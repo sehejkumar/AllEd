@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:id="@+id/reminderDrawer"
     android:background="@color/colorPrimary"
-    tools:context=".reminders.ReminderActivity"
+    tools:context="com.alled.alled.reminders.ReminderActivity"
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
 

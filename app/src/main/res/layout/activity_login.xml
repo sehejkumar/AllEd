@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".signupandlogin.Login">
+    tools:context="com.alled.alled.signupandlogin.Login">
 
     <ImageView
         android:id="@+id/cap"

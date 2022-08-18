@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
     android:orientation="vertical"
-    tools:context=".reminders.AlarmActivity">
+    tools:context="com.alled.alled.reminders.AlarmActivity">
 
     <ImageView
         android:layout_width="@dimen/_150sdp"

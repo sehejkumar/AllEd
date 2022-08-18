@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/notesDrawer"
-    tools:context=".notes.activities.NotesActivity"
+    tools:context="com.alled.alled.notes.activities.NotesActivity"
     android:fitsSystemWindows="true"
     tools:openDrawer="start" >
 

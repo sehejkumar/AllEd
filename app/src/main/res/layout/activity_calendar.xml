@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".calendar.CalendarActivity"
+    tools:context="com.alled.alled.calendar.CalendarActivity"
     android:id="@+id/calendarDrawerLayout"
     android:fitsSystemWindows="true"
     tools:openDrawer="start">
@@ -63,12 +63,12 @@
             android:textSize="@dimen/_15sdp"
             android:textColor="@color/white"/>
 
-        <com.example.alled.calendar.CustomCalendarView
+        <com.alled.alled.calendar.CustomCalendarView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/custom_calendar_view">
 
-        </com.example.alled.calendar.CustomCalendarView>
+        </com.alled.alled.calendar.CustomCalendarView>
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
