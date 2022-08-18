@@ -105,6 +105,7 @@
                 />
 
             <ImageView
+                android:id="@+id/statImage"
                 android:layout_width="@dimen/_320sdp"
                 android:layout_height="@dimen/_320sdp"
                 android:src="@drawable/statistic"
@@ -114,6 +115,16 @@
                 android:layout_marginTop="@dimen/_5sdp"
 
                 />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Source: https://twitter.com/unesco/status/878528145204416513"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@id/statImage"
+                android:gravity="center"
+                android:textSize="@dimen/_15sdp"
+                tools:ignore="MissingConstraints" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
