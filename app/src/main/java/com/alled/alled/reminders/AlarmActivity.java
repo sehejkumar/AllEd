@@ -7,7 +7,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.example.alled.R;
+import com.alled.alled.R;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

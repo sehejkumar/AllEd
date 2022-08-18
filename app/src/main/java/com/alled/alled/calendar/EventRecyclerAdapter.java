@@ -18,7 +18,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.alled.R;
+import com.alled.alled.R;
 
 import java.text.ParseException;
 import java.util.ArrayList;

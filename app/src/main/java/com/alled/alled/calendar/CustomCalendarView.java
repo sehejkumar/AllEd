@@ -29,7 +29,7 @@ import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.alled.R;
+import com.alled.alled.R;
 import com.google.android.material.navigation.NavigationView;
 
 import java.text.SimpleDateFormat;

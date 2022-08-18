@@ -17,7 +17,7 @@ import android.widget.Button;
 import com.alled.alled.reminders.ReminderActivity;
 import com.alled.alled.MainActivity;
 import com.alled.alled.Profile_Page;
-import com.example.alled.R;
+import com.alled.alled.R;
 import com.alled.alled.calendar.CalendarActivity;
 import com.alled.alled.notes.activities.NotesActivity;
 import com.google.android.material.navigation.NavigationView;

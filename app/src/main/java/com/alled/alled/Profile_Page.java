@@ -18,7 +18,7 @@ import android.widget.Toast;
 import com.alled.alled.educationalwebsites.EducationalWebsites;
 import com.alled.alled.notes.activities.NotesActivity;
 import com.alled.alled.reminders.ReminderActivity;
-import com.example.alled.R;
+import com.alled.alled.R;
 import com.alled.alled.calendar.CalendarActivity;
 import com.alled.alled.signupandlogin.Login;
 import com.alled.alled.signupandlogin.User;

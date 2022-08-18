@@ -12,7 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
-import com.example.alled.R;
+import com.alled.alled.R;
 
 public class AlarmService extends Service{
 

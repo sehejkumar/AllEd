@@ -16,7 +16,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.alled.alled.notes.entities.Note;
 import com.alled.alled.notes.listeners.NotesListener;
-import com.example.alled.R;
+import com.alled.alled.R;
 import com.makeramen.roundedimageview.RoundedImageView;
 
 import java.util.ArrayList;

@@ -38,7 +38,7 @@ import com.alled.alled.educationalwebsites.EducationalWebsites;
 import com.alled.alled.notes.listeners.NotesListener;
 import com.alled.alled.reminders.ReminderActivity;
 import com.alled.alled.Profile_Page;
-import com.example.alled.R;
+import com.alled.alled.R;
 
 import com.alled.alled.calendar.CalendarActivity;
 import com.alled.alled.notes.adapters.NotesAdapter;

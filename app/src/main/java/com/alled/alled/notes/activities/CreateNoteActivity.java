@@ -30,7 +30,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.alled.R;
+import com.alled.alled.R;
 import com.alled.alled.notes.database.NotesDatabase;
 import com.alled.alled.notes.entities.Note;
 

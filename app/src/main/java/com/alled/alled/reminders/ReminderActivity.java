@@ -8,7 +8,7 @@ import android.os.Bundle;
 
 import com.alled.alled.MainActivity;
 import com.alled.alled.Profile_Page;
-import com.example.alled.R;
+import com.alled.alled.R;
 
 import android.content.ComponentName;
 import android.content.pm.PackageManager;
